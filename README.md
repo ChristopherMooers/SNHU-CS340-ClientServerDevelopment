@@ -129,7 +129,7 @@ This screenshot shows the Mountain/Wilderness Rescue filter applied. All dashboa
 ### Figure 4: Disaster/Individual Tracking Filter Applied
 This screenshot shows the Disaster/Individual Tracking filter applied, demonstrating how the dashboard responds to user input.
 
-![Figure 1](reset.png) 
+![Figure 1](CS340_reset.png) 
 ### Figure 5: Reset Filter
 This screenshot shows the Reset option, which returns the dashboard to its original unfiltered state.
 
