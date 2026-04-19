@@ -113,19 +113,24 @@ These challenges were overcome through debugging, testing, and iterative develop
 
 # Screenshots
 
-Figure 1: Default Dashboard View (Unfiltered)
+![Figure 1](CS340_unfiltered.png)
+### Figure 1: Default Dashboard View (Unfiltered)
 This screenshot shows the default dashboard view with all records displayed. The data table, bar chart, and geolocation map are fully populated before any filters are applied.
- 
-Figure 2: Water Rescue Filter Applied
+
+ ![Figure 1](CS340_water_rescue.png)
+### Figure 2: Water Rescue Filter Applied
 This screenshot shows the dashboard after applying the Water Rescue filter. The data table, chart, and map update dynamically to display only relevant records.
- 
-Figure 3: Mountain/Wilderness Rescue Filter Applied
+
+![Figure 1](CS340_mountain_rescue.png)
+### Figure 3: Mountain/Wilderness Rescue Filter Applied
 This screenshot shows the Mountain/Wilderness Rescue filter applied. All dashboard components update to reflect the filtered dataset.
- 
-Figure 4: Disaster/Individual Tracking Filter Applied
+
+![Figure 1](CS340_disaster.png) 
+### Figure 4: Disaster/Individual Tracking Filter Applied
 This screenshot shows the Disaster/Individual Tracking filter applied, demonstrating how the dashboard responds to user input.
- 
-Figure 5: Reset Filter
+
+![Figure 1](reset.png) 
+### Figure 5: Reset Filter
 This screenshot shows the Reset option, which returns the dashboard to its original unfiltered state.
 
 # Tests
